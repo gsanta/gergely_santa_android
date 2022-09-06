@@ -8,5 +8,3 @@ Hello World Android App
 test build 11
 
 Selective build test - ORG 3
-
-token test
